@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="category-24px" clip-path="url(#clip-path)">
+    <g id="category-24px-2" data-name="category-24px">
+      <path id="Path" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Shape" d="M14.5,20A4.5,4.5,0,1,1,19,15.5,4.505,4.505,0,0,1,14.5,20Zm0-7A2.5,2.5,0,1,0,17,15.5,2.5,2.5,0,0,0,14.5,13ZM8,19.5H0v-8H8v8Zm-6-6v4H6v-4ZM14.5,9H3.5L9,0l5.5,9ZM9,3.84,7.06,7h3.87Z" transform="translate(3 2)"/>
+    </g>
+  </g>
+</svg>
